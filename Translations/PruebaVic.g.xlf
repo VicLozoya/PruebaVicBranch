@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="PruebaVic">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2383752455 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table_Datos_Entrega</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Table_Datos_Entrega - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2383752455 - Field 3103413573 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchaser Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Table_Datos_Entrega - Field Comprador - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2383752455 - Field 2916309421 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FechaRecepcion</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Table_Datos_Entrega - Field FechaRecepcion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2383752455 - Field 3058938786 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>HoraRecepcion</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Table_Datos_Entrega - Field HoraRecepcion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2383752455 - Field 2349385478 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NoPedido</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Table_Datos_Entrega - Field NoPedido - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2383752455 - Field 2074931405 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NoProveedor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Table_Datos_Entrega - Field NoProveedor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2383752455 - Field 394937355 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NoRemision</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Table_Datos_Entrega - Field NoRemision - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3835227956 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Datos de Entrega</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page_Datos_Entrega - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3835227956 - Control 3103413573 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Especifica el comprador que ha creado el registro.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page_Datos_Entrega - Control Comprador - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3835227956 - Control 3103413573 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comprador</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page_Datos_Entrega - Control Comprador - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3835227956 - Control 2916309421 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fecha de recepción.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page_Datos_Entrega - Control FechaRecepcion - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3835227956 - Control 2916309421 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fecha Recepción</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page_Datos_Entrega - Control FechaRecepcion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3835227956 - Control 3058938786 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hora de recepción (capturar en formato 24 hrs.).</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page_Datos_Entrega - Control HoraRecepcion - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3835227956 - Control 3058938786 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hora Recepción</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page_Datos_Entrega - Control HoraRecepcion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3835227956 - Control 1947984536 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Número del pedido.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page_Datos_Entrega - Control No. Pedido - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3835227956 - Control 1947984536 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Pedido</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page_Datos_Entrega - Control No. Pedido - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3835227956 - Control 1426488111 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Proveedor del pedido.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page_Datos_Entrega - Control No. Proveedor - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3835227956 - Control 1426488111 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Proveedor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page_Datos_Entrega - Control No. Proveedor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3835227956 - Control 394937355 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Número de remisión.</source>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page_Datos_Entrega - Control NoRemision - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3835227956 - Control 394937355 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Remisión</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Page_Datos_Entrega - Control NoRemision - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1096972937 - Action 2889122824 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Ver o editar los datos de entrega</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PageExtPurchaseOrder - Action OpenPageDatosEntrega - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1096972937 - Action 2889122824 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Datos de entrega</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PageExtPurchaseOrder - Action OpenPageDatosEntrega - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1096972937 - Control 3406367856 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Auditoría</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PageExtPurchaseOrder - Control Auditoría - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1096972937 - Control 722528885 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Usuario que creó el registro.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PageExtPurchaseOrder - Control Creado por - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1096972937 - Control 722528885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Creado por</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PageExtPurchaseOrder - Control Creado por - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1096972937 - Control 1774025734 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Fecha de creación</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PageExtPurchaseOrder - Control Fecha de creación - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1096972937 - Control 336050871 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Fecha de modificación</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PageExtPurchaseOrder - Control Fecha de modificación - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1096972937 - Control 3887369155 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Datos adicionales y de estatus</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PageExtPurchaseOrder - Control Datos adicionales y de estado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1096972937 - Control 945927960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Aprobado</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PageExtPurchaseOrder - Control Aprobado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1096972937 - Control 3121304536 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Comentarios Comprador</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PageExtPurchaseOrder - Control Comentarios_Comprador - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1096972937 - Control 2950845476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Estado</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PageExtPurchaseOrder - Control Estado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1096972937 - Control 3692181824 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Fecha Recepción</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PageExtPurchaseOrder - Control Fecha_Recepcion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 79777847 - Control 945927960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3195034673">
+          <source>Aprobado</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Page_Ext_PurchaseOrderList - Control Aprobado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 79777847 - Control 2950845476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3195034673">
+          <source>Estado</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Page_Ext_PurchaseOrderList - Control Estado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 656090361 - Field 945927960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>Aprobado</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Ext_Tbl_PurchaseHeader - Field Aprobado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 656090361 - Field 3121304536 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>Comentarios_Comprador</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Ext_Tbl_PurchaseHeader - Field Comentarios_Comprador - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 656090361 - Field 2950845476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>Estado</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Ext_Tbl_PurchaseHeader - Field Estado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 656090361 - Field 2950845476 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>Nueva,En recepción,Crear CxP</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Ext_Tbl_PurchaseHeader - Field Estado - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 656090361 - Field 3692181824 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>Fecha_Recepcion</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Ext_Tbl_PurchaseHeader - Field Fecha_Recepcion - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,51 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Business Central Sandbox",
+            "request": "launch",
+            "type": "al",
+            "server": "https://api.businesscentral.dynamics.com",
+            "serverInstance": "SANDBOX_CANDIDATE_DEVELOPER",
+            "authentication": "AAD",
+            "startupObjectId": 9307,
+            "startupObjectType": "Page",
+            "breakOnError": "All",
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "tenant": "fc49090b-7fd5-4d8a-ad10-ebcec7fb5697",
+            "usePublicURLFromServer": true
+        },
+        {
+            "name": "AL: Generated Snapshot request",
+            "request": "snapshotInitialize",
+            "type": "al",
+            "environmentType": "Sandbox",
+            "environmentName": "SANDBOX_CANDIDATE_DEVELOPER",
+            "sessionId": 9062,
+            "breakOnNext": "WebClient",
+            "executionContext": "DebugAndProfile",
+            "tenant": "fc49090b-7fd5-4d8a-ad10-ebcec7fb5697"
+        },
+        {
+            "name": "AL: Generated Attach request",
+            "request": "attach",
+            "type": "al",
+            "environmentType": "Sandbox",
+            "environmentName": "SANDBOX_CANDIDATE_DEVELOPER",
+            "sessionId": 9062,
+            "breakOnNext": "WebClient",
+            "breakOnError": "ExcludeTry",
+            "tenant": "fc49090b-7fd5-4d8a-ad10-ebcec7fb5697"
+        },
+        {
+            "name": "AL: Generated Download Symbols request",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "Sandbox",
+            "environmentName": "SANDBOX_CANDIDATE_DEVELOPER",
+            "tenant": "fc49090b-7fd5-4d8a-ad10-ebcec7fb5697"
+        }
+    ]
+}

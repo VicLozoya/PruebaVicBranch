@@ -1,0 +1,25 @@
+{
+  "id": "25ac3077-dae8-47fc-868b-e08a0ce0a475",
+  "name": "PruebaVic",
+  "publisher": "Vic Lozoya",
+  "version": "1.0.0.0",
+  "platform": "26.0.0.0",
+  "application": "26.0.0.0",
+  "runtime": "15.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile",
+    "GenerateCaptions"
+  ]
+}
